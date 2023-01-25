@@ -1,0 +1,5 @@
+https://portfolio-james.web.app/
+https://portfolio-james.web.app/about
+https://portfolio-james.web.app/projects
+https://portfolio-james.web.app/project/1
+https://portfolio-james.web.app/project/2

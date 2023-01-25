@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.626f728a.css",
+    "main.js": "/static/js/main.a4feffa0.js",
+    "static/css/157.c9c58126.chunk.css": "/static/css/157.c9c58126.chunk.css",
+    "static/js/157.189ba5f9.chunk.js": "/static/js/157.189ba5f9.chunk.js",
+    "static/css/101.2ee1160d.chunk.css": "/static/css/101.2ee1160d.chunk.css",
+    "static/js/101.058df294.chunk.js": "/static/js/101.058df294.chunk.js",
+    "static/css/602.c31db4af.chunk.css": "/static/css/602.c31db4af.chunk.css",
+    "static/js/602.aff33cd4.chunk.js": "/static/js/602.aff33cd4.chunk.js",
+    "static/css/771.516b51c8.chunk.css": "/static/css/771.516b51c8.chunk.css",
+    "static/js/771.c83f4569.chunk.js": "/static/js/771.c83f4569.chunk.js",
+    "static/js/522.4a5add71.chunk.js": "/static/js/522.4a5add71.chunk.js",
+    "static/js/476.a881fd17.chunk.js": "/static/js/476.a881fd17.chunk.js",
+    "static/js/875.e282b150.chunk.js": "/static/js/875.e282b150.chunk.js",
+    "static/js/661.20b354a4.chunk.js": "/static/js/661.20b354a4.chunk.js",
+    "static/js/856.11a884a7.chunk.js": "/static/js/856.11a884a7.chunk.js",
+    "static/js/66.3e0d6ec6.chunk.js": "/static/js/66.3e0d6ec6.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/home-bg.jpg": "/static/media/home-bg.43a5db932e4ce89869ea.jpg",
+    "static/media/about-promo.svg": "/static/media/about-promo.50bbe253a5f5024ba9ed83d65b6f143b.svg",
+    "static/media/home-main.svg": "/static/media/home-main.503264289ea546a892b4aa03c745fecc.svg",
+    "static/media/avatar.svg": "/static/media/avatar.b2332e64abef601558845414bd5b5cc6.svg",
+    "static/media/resume-files.svg": "/static/media/resume-files.9f94ad88bffa6bcb55147c9dd6784820.svg",
+    "index.html": "/index.html",
+    "static/media/pre.svg": "/static/media/pre.ede593adc5751ee88628.svg",
+    "static/media/toggle-dark.svg": "/static/media/toggle-dark.a91d5e6be3148a0b99773016fbc3ddb5.svg",
+    "static/media/download.svg": "/static/media/download.3e6186310c00092058f3b990ceeb5acc.svg",
+    "static/media/modal-close.svg": "/static/media/modal-close.0c281a4b61125b076470c1f165745e1c.svg",
+    "static/media/toggle-light.svg": "/static/media/toggle-light.a0b5dd1bf7da0e3530b56b612b62f4f2.svg"
+  },
+  "entrypoints": [
+    "static/css/main.626f728a.css",
+    "static/js/main.a4feffa0.js"
+  ]
+}
